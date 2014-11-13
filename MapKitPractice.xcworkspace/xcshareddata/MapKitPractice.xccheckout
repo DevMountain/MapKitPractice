@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>509BF9F5-2A9F-4D64-9BA9-2B39080A83F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapKitPractice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15A9904CBAA9BEFEE59311BE1219063ED584E14F</key>
+		<string>https://github.com/DevMountain/MapKitPractice.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapKitPractice.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15A9904CBAA9BEFEE59311BE1219063ED584E14F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/DevMountain/MapKitPractice.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15A9904CBAA9BEFEE59311BE1219063ED584E14F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15A9904CBAA9BEFEE59311BE1219063ED584E14F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MapKitPractice</string>
+		</dict>
+	</array>
+</dict>
+</plist>
